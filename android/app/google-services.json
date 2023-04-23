@@ -1,34 +1,34 @@
 
 {
   "project_info": {
-    "project_number": "975317391954",
-    "project_id": "iread-ea418",
-    "storage_bucket": "iread-ea418.appspot.com"
+    "project_number": "77474530073",
+    "project_id": "iread-b7189",
+    "storage_bucket": "iread-b7189.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:975317391954:android:7f3379c62f978b6b165d8b",
+        "mobilesdk_app_id": "1:77474530073:android:1bbf00cf189f72b95f7b88",
         "android_client_info": {
           "package_name": "com.example.sia_layout"
         }
       },
       "oauth_client": [
         {
-          "client_id": "975317391954-mg19oi9qgqingegjbu81epgkl387l69h.apps.googleusercontent.com",
+          "client_id": "77474530073-sathlcudi46blb1ic4m8dbuca4231pc1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBO-Shsh4a4dKX5qU02K_0IpFYInbWkS6I"
+          "current_key": "AIzaSyCdDDOcSPSQL0Z4qlLA-KfNPMN2ReqgOUw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "975317391954-mg19oi9qgqingegjbu81epgkl387l69h.apps.googleusercontent.com",
+              "client_id": "77474530073-sathlcudi46blb1ic4m8dbuca4231pc1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -38,8 +38,6 @@
   ],
   "configuration_version": "1"
 }
-
-
 
 
 
