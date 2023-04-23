@@ -69,6 +69,7 @@ dependencies {
 
     // Add the dependency for the Firebase SDK for Google Analytics
     implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.mlkit:text-recognition-chinese:16.0.0-beta5'
 
     // TODO: Add the dependencies for any other Firebase products you want to use
     // See https://firebase.google.com/docs/android/setup#available-libraries

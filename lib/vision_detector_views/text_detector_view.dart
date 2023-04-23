@@ -183,3 +183,4 @@ class _TextRecognizerViewState extends State<TextRecognizerView> with RouteAware
     await flutterTts.speak(text);
   }
 }
+

@@ -127,7 +127,7 @@ class _HomePage2State extends State<HomePage2> {
   }
 
 
-  _HomePageState2() {
+  _HomePage2State() {
     /// Init Alan Button with project key from Alan Studio
     AlanVoice.addButton("68bdf8c111b50f3760f31b57023418e02e956eca572e1d8b807a3e2338fdd0dc/stage",
         buttonAlign: AlanVoice.BUTTON_ALIGN_LEFT);
